@@ -45,6 +45,6 @@
 </div>
 
 <a href="https://github.com/hazellenuts">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazellenuts&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazellenuts&theme=tokyonight" alt="GitHub Streak" />
 </a>
 
