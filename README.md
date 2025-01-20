@@ -1,5 +1,5 @@
 <h1>Gabrielle Here! 🥨✨</h1>
-<div>
+<div style = "display: flex; flex-direction: row;">
   <img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif" alt="me" width="200" />
   <div>
     <h2>30 Nites of Code:</h2>
