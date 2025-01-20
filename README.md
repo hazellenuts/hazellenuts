@@ -2,7 +2,7 @@
 <h1 align="center">Gabrielle Here! 🥨✨</h1>
 
 
- <h2>💫 About Me</h2>
+ <h2>About Me</h2>
  
 <a href="https://github.com/JoshuaThadi">
   <img width="150px" src="https://komarev.com/ghpvc/?username=hazellenuts&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views"></a>
@@ -33,7 +33,7 @@
 </h4> 
  
  <div align="left"> 
-  <h3>🌟 Reach Me on:</h3>
+  <h3>Reach Me on:</h3>
 
   <a href="mailto:roseesoewarno@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/gabrielle-herucakra-6b230728a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
