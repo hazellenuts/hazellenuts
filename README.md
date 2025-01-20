@@ -1,7 +1,7 @@
 <img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft2.gif" alt="me" width="100%" />
 <h1 align="center">Gabrielle Here! 🥨✨</h1>
 
-<table width="100%">
+<table width="100vw">
   <tr>
     <td width="50%" valign="top">
       <h2>About Me:</h2>
