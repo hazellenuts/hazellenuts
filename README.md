@@ -3,7 +3,6 @@
     <img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif" alt="me" width="100%" />
   </div>
   <div style="flex: 50%; padding: 10px;">
-    <h1>Gabrielle Here! 🥨✨</h1>
     <h2>30 Nites of Code:</h2>
     <p>
       <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>  
@@ -12,3 +11,5 @@
     </p>
   </div>
 </div>
+
+<h1>Gabrielle Here! 🥨✨</h1>
