@@ -26,8 +26,8 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-<div>
+<!--<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">-->
+<div align="right">
  <h2>30 Nites of Code:</h2>
  <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>
  <br>
