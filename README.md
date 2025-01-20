@@ -1,4 +1,4 @@
-![me](https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif)
+<img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif" alt="me" style="width: 100%; height: auto;" />
 # Gabrielle Here! 🥨✨
 
 ## 30NitesOfCode:
