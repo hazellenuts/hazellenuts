@@ -24,11 +24,12 @@
 <img align="right" src="https://www.codedex.io/api/petStatus?user=hazellenuts" alt="@hazellenuts #30NitesOfCode" />
 
 <h4 align="left"> 
- 🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- ✨ I only like perfection.
+ 🌱 3rd Year Computer Science Student</br>
+ 🎮 Unity Certified Associate Game Developer</br>
+ 💻 Currently leveling up my programming skills</br>
+ 📈 Taking on the <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">#30NitesOfCode</a></br>
+ ⚡ Interests: Software Development, Game Development, and Artificial Intelligence</br>
+ ✨ No knot is too tangled to undo—it just takes patience, care, and the will to try.
 </h4> 
  
  <div align="left"> 
