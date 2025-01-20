@@ -40,5 +40,8 @@
 </div></h4>
 
 <h2 align="center">🧩 Languages & tools I Have placed My Hands On </h2>
-<img align="center" src="https://github.com/hazellenuts/hazellenuts/blob/main/icons.png" width="60%"/>
+<div align="center">
+ <img align="center" src="https://github.com/hazellenuts/hazellenuts/blob/main/logoo.png" width="80%"/>
+</div>
+
 
