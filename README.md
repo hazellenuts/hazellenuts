@@ -44,7 +44,3 @@
  <img align="center" src="https://github.com/hazellenuts/hazellenuts/blob/main/logoo.png" width="80%"/>
 </div>
 
-<a href="https://github.com/hazellenuts">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazellenuts&theme=tokyonight" alt="GitHub Streak" />
-</a>
-
