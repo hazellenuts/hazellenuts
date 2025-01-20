@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <div style="flex: 50%; padding: 10px;">
-    <img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif" alt="me" width="100%" />
+    <img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif" alt="me" width="auto" />
   </div>
   <div style="flex: 50%; padding: 10px;">
     <h2>30 Nites of Code:</h2>
