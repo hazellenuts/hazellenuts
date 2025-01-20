@@ -3,7 +3,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <h2>About Me:</h2>
       <ul>
         <li>Item 1</li>
@@ -11,7 +11,7 @@
         <li>Item 3</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center">
+    <td width="100%" valign="top" align="center">
       <h2>30 Nites of Code:</h2>
       <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>
       <br>
