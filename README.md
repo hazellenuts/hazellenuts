@@ -10,7 +10,8 @@
     3. 
   </td>
   <td>
-    <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>  
+    <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>
+    <br>
     <img src="https://www.codedex.io/api/petStatus?user=hazellenuts" alt="@hazellenuts #30NitesOfCode" />
   </td>
 </table>
