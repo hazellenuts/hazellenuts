@@ -2,14 +2,14 @@
 <h1 align = "center">Gabrielle Here! 🥨✨</h1>
 
 
-<table border = 0 width="100%">
-  <td>
+<table border = 0>
+  <td width="60%">
     About Me:
     1. 
     2.
     3. 
   </td>
-  <td>
+  <td width="40%">
     <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>
     <br>
     <img src="https://www.codedex.io/api/petStatus?user=hazellenuts" alt="@hazellenuts #30NitesOfCode" />
