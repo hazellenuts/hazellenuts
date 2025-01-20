@@ -2,7 +2,7 @@
 <h1 align = "center">Gabrielle Here! 🥨✨</h1>
 
 
-<table border = 0>
+<table border = 0 width="100%>
   <td width="60%">
     About Me:
     1. 
