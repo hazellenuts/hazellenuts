@@ -2,7 +2,7 @@
 <h1 align="center">Gabrielle Here! 🥨✨</h1>
 
 
- <h2>About Me</h2>
+ <h3>About Me</h3>
  
 <a href="https://github.com/JoshuaThadi">
   <img width="150px" src="https://komarev.com/ghpvc/?username=hazellenuts&label=Profile%20views&color=318CE7&style=for-the-badge" alt="Profile views"></a>
