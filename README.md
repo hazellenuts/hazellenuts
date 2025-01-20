@@ -27,13 +27,13 @@
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <!--<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">-->
-<div align="right">
+<!--<div align="right">
  <h2>30 Nites of Code:</h2>
  <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">Check out my progress!</a>
  <br>
  <img src="https://www.codedex.io/api/petStatus?user=hazellenuts" alt="@hazellenuts #30NitesOfCode" />
-</div>
-
+</div>-->
+<img align="right" src="https://www.codedex.io/api/petStatus?user=hazellenuts" alt="@hazellenuts #30NitesOfCode" />
 <h4> 
   🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
