@@ -44,5 +44,7 @@
  <img align="center" src="https://github.com/hazellenuts/hazellenuts/blob/main/logoo.png" width="80%"/>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lp1wbwtwi-hazellenuts-projects.vercel.app/demo/?user=hazellenuts&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazellenuts&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
