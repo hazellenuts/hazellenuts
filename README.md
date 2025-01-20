@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row">
   <div style="flex: 50%; padding: 10px;">
     <img src="https://github.com/hazellenuts/hazellenuts/blob/main/minecraft.gif" alt="me" width="auto" />
   </div>
