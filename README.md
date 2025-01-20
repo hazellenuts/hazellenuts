@@ -44,4 +44,5 @@
  <img align="center" src="https://github.com/hazellenuts/hazellenuts/blob/main/logoo.png" width="80%"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hazellenuts&theme=dark)](https://git.io/streak-stats)
 
