@@ -27,7 +27,7 @@
  🎮 Unity Certified Associate Game Developer</br>
  💻 Currently leveling up my programming skills</br>
  📈 Taking on the <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">#30NitesOfCode</a> challenge</br>
- ⚡ Interests: Software Development, Game Development, and Artificial Intelligence</br>
+ ⚡ Interests: Bioinformatics, Artificial Intelligence, Software Engineering</br>
  ✨ No knot is too tangled to undo—it just takes patience, care, and the will to try.
 </h4> 
  
