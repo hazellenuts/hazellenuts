@@ -23,7 +23,7 @@
 <img align="right" src="https://www.codedex.io/api/petStatus?user=hazellenuts" alt="@hazellenuts #30NitesOfCode" />
 
 <h4 align="left"> 
- 🌱 3rd Year Computer Science Student</br>
+ 🌱 Computer Science Student</br>
  🎮 Unity Certified Associate Game Developer</br>
  💻 Currently leveling up my programming skills</br>
  📈 Taking on the <a href="https://www.codedex.io/@hazellenuts/30-nites-of-code">#30NitesOfCode</a> challenge</br>
